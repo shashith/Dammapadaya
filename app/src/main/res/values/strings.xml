@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dammapadaya</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_app_header">Chapters</string>
+
+    <string-array name="chapter_names">
+        <item>chapter 1</item>
+        <item>chapter 2</item>
+    </string-array>
+
+    <string name="title_activity_chapter_content">ChapterContent</string>
+
+</resources>

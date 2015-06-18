@@ -1,0 +1,22 @@
+[
+    {
+        "chapterName":"chapter 1";
+        "relatedFile":"chapter1",
+        "description":"this is the chapter1"
+    },
+    {
+        "chapterName":"chapter 2";
+        "relatedFile":"chapter2",
+        "description":"this is the chapter2"
+    },
+    {
+        "chapterName":"chapter 3";
+        "relatedFile":"chapter3",
+        "description":"this is the chapter3"
+    },
+    {
+        "chapterName":"chapter 4";
+        "relatedFile":"chapter4",
+        "description":"this is the chapter4"
+    },
+]

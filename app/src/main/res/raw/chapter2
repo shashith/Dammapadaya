@@ -1,0 +1,17 @@
+[
+    {
+        "verse_no":"1",
+        "verse_text":"This is a long txt which should be encoded before stored in the
+                        programm because of security reason should be displayed in kind of a verse.can use a array to
+                        store the lines separately it is better aproach",
+        "verse_meaning":"this is the meaning of the verse should be encoded before store in a file"
+    },
+    {
+        "verse_no":"2",
+        "verse_text":"This is a long txt which should be encoded before stored in the
+                        programm because of security reason should be displayed in kind of a verse.can use a array to
+                        store the lines separately it is better aproach",
+        "verse_meaning":"this is the meaning of the verse should be encoded before store in a file"
+    }
+
+]
